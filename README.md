@@ -38,6 +38,6 @@ Here are a few projects I've worked on:
 ## Connect with Me
 
 - 📧 Email: madhukarbabulal5@gmail.com
-- 💼 LinkedIn: https://github.com/babulal85k
+- 💼 LinkedIn: https://www.linkedin.com/in/babu-lal-mandal-9b602b23b/
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about technology! 😊
