@@ -15,19 +15,6 @@ As a tech enthusiast and problem solver, my journey began at IGNOU, where I earn
 - **Web Technologies & Tools:** Exploring the world of web development (details coming soon!).
 - **Databases:** Stay tuned for more info.
 
-### 💻 **My Projects**
-
-- **Bestbuy Clone:**
-  - Technologies: HTML, CSS, JavaScript.
-  - Description: A detailed clone of Bestbuy's website.
-  - [Project Link: Coming Soon!]
-
-- **Flipkart Clone:**
-  - Technologies: HTML, CSS.
-  - Description: Recreated the user experience of Flipkart.
-  - [Project Link: Coming Soon!]
-
--Certainly! Here's how the Water Level Monitor Project can be incorporated into the Projects section of your "About Me":
 
 ### 💻 **My Projects**
 
