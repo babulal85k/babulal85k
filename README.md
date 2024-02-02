@@ -1,8 +1,8 @@
 ---
+**Babu Lal Mandal - Tech Enthusiast & Aspiring Full Stack Developer**
 
-🌟 **Hello, World! I'm Babu Lal Mandal** 🌟
+🌟 Hello, World! I'm Babu Lal Mandal, a BCA graduate from IGNOU and an aspiring full stack developer. My passion for solving problems through technology has led me to constantly seek new challenges and learnings in the fast-paced world of web development.
 
-As a tech enthusiast and problem solver, my journey began at IGNOU, where I earned my BCA. I'm always on the lookout for new challenges in the dynamic realm of software development.
 
 ### 🎓 **Educational Background**
 
