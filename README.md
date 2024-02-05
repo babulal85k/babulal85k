@@ -52,3 +52,7 @@ I'm keen on exploring opportunities, tackling new challenges, and engaging in te
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babulal85k)](https://github.com/babulal85k/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babulal85k&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babulal85k&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babulal85k&show_icons=true&theme=radical)
