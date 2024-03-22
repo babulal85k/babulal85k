@@ -28,7 +28,7 @@
   <a href="https://instagram.com/im_warrior_9" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/adityawarrior8" target="_blank">
+  <a href="https://www.youtube.com/channel/UCwU2gidIqLL3DmTkygshQ2A" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </div>
