@@ -1,55 +1,33 @@
-<a href="https://github.com/babulal85k?tab=followers">
-    <img src="https://img.shields.io/github/followers/babulal85k?label=Followers&style=social" alt="GitHub Badge">
-</a>
-<a href="https://github.com/babulal85k/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=babulal85k">
-</a>
+<h1 align="center">Hi 👋, I'm Babu Lal Mandal</h1>
+<h3 align="center">Aspiring Front-end Developer @masai School</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=babulal85k&label=Profile%20views&color=0e75b6&style=flat" alt="babulal85k" /> </p>
 
-**Babu Lal Mandal - Passionate Full Stack Developer & Tech Innovator**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babulal85k" alt="babulal85k" /></a> </p>
 
-🌟 Greetings! I'm Babu Lal Mandal, an IGNOU alum with a BCA degree, embarking on an exhilarating journey in full stack development. My drive to solve complex problems with innovative technology solutions keeps me at the cutting edge of web development.
+<p align="left"> <a href="https://twitter.com/yourcoderishere" target="blank"><img src="https://img.shields.io/twitter/follow/yourcoderishere?logo=twitter&style=for-the-badge" alt="yourcoderishere" /></a> </p>
 
-### 🎓 **Educational Insights**
+- 👨‍💻 All of my projects are available at [Portfolio](https://babulal85k.netlify.app/)
 
-- **BCA Degree:** Honored graduate from Indira Gandhi National Open University (IGNOU).
-- **Current Endeavors:** Expanding my tech horizon at Prepleaf by Masai, focusing on practical, hands-on learning.
+- 💬 Ask me about **React, Html, Css, Python**
 
-### 🚀 **Technical Expertise**
+- 📫 How to reach me **madhukarbabulal5@gmail.com**
 
-- **Programming Mastery:** Skilled in Python, HTML, CSS, and JavaScript, aiming for clean, efficient code.
-- **Emerging Technologies:** Diving deep into the latest in web development and eagerly awaiting to unveil my database prowess.
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yWmtDuNSKkK0jfMoV7kDkglV7VWtaW10/view)
 
-### 💻 **Project Portfolio**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/yourcoderishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourcoderishere" height="50" width="40" /></a>
+<a href="https://linkedin.com/in/babulal85k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="babulal85k" height="30" width="40" /></a>
+<a href="https://instagram.com/im_warrior_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_warrior_9" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/adityawarrior8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adityawarrior8" height="30" width="40" /></a>
+</p>
 
-1. **Bestbuy Clone:**
-   - **Tech Stack:** HTML, CSS, JavaScript - A meticulous replication of Bestbuy's digital experience.
-   - **Status:** Link https://meek-queijadas-47a3fb.netlify.app/
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-2. **Flipkart Clone:**
-   - **Tech Stack:** HTML, CSS - A creative reimagining of Flipkart's user interface.
-   - **Status:** Link https://lovely-pothos-cc0a00.netlify.app/
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babulal85k&show_icons=true&locale=en&layout=compact" alt="babulal85k" /></p>
 
-3. **Water Level Monitor:**
-   - **Overview:** A sophisticated system for real-time water level monitoring, blending hardware with software for optimal performance. Utilizes Flask for the backend, ESP8266 for IoT connectivity, and an ultrasonic sensor for precise measurements.
-   - **Structure & Setup:** Detailed guide for environment setup, project execution, and contribution guidelines available upon project link release.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babulal85k&show_icons=true&locale=en" alt="babulal85k" /></p>
 
-### 🌐 **Exploring Interests**
-
-- **AI & Machine Learning:** Delving into the transformative power of AI to solve real-world problems.
-- **Advanced Web Development:** Crafting seamless, dynamic user experiences.
-- **Lifelong Learning:** Dedicated to evolving with the tech landscape through constant learning.
-
-### 🤝 **Connect and Collaborate**
-
-- **Email:** [madhukarbabulal5@gmail.com](mailto:madhukarbabulal5@gmail.com)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/babulal85k)
-
-I'm keen on exploring opportunities, tackling new challenges, and engaging in tech discussions. Let's innovate together!
-
----
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babulal85k&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babulal85k&hide_progress=false)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babulal85k&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babulal85k&" alt="babulal85k" /></p>
